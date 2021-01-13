@@ -1,0 +1,407 @@
+p{
+    color: gray;
+}
+
+
+.top{
+    background-color: white;
+    color: rgb(201, 17, 192);
+    margin-left: 90px;
+    margin-right: 90px;
+               
+    }
+
+.button {
+        color: black;
+        display: block;
+        float: right;
+        border: none;
+                
+        }
+
+.signup{
+        color: white;
+        background-color: rgb(204, 18, 182);
+        border: none;
+        padding: 10px 20px;
+        border-radius: 20px;
+        box-shadow: whitesmoke;
+        }
+
+.button a  {
+            text-decoration: none;
+            padding: 15px;
+            }
+
+.middle{
+        background-color: rgb(230, 6, 196);
+        width: 100%;
+        height: auto;
+        color: white;
+        text-align: center;
+        padding: 0px;
+        line-height: 2;
+        width: 100%;
+        position: relative;
+        margin: 0;
+                
+    }
+
+.middle img{
+            width: 100%;
+            height: 400px;
+        }
+
+.container {
+            position: relative;
+            text-align: center;
+            color: white;
+        }
+
+.centered {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -125%);
+        }
+
+.middle p{
+        color: white;
+        }
+
+.more{
+    color: rgb(211, 12, 201);
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: whitesmoke;
+    margin-top: 5px;
+    }
+
+.middle2{
+        margin-top: 50px;
+        padding-left: 50px;
+        margin-right: 50px;
+        margin-left: 40px;
+        margin-right: 40px;
+        }
+
+.middle2 img{
+            float: right;
+            border-radius: 70px 190px 190px 70px;
+        }
+
+.m2content{
+            float: left;
+                
+        }
+
+.middle2 h2{
+            color: rgb(226, 26, 183);
+            line-height: 1.5;
+        }
+
+.middle3{
+        margin-top: 150px;
+        }
+
+.m3content{
+            text-align: center;
+        }
+
+            .middle3 h2{
+                color: rgb(201, 17, 192);
+            }
+
+            .icons{
+                padding: 50px;
+                height: 300px;
+                
+            }
+
+            .icons:after{
+                content: "";
+                display: table;
+                clear: both;
+            }
+
+            .column{
+                float: left;
+                width: 33.33%;
+                padding: 30px;
+                height: 150px;
+                text-align: center;
+            }
+
+            .middle4 img{
+                float: left;
+                border-radius: 70px 190px 190px 70px;
+                margin-right: 100px;
+                margin-left: -300px;
+            }
+
+            .middle4{
+                margin: 50px;
+                margin-right: 20px;
+            }
+
+            .middle4 h2{
+                color: rgb(201, 17, 192);
+            }
+
+            .middle5{
+                margin: 100px;
+                text-align: center;
+                padding: 20px;
+                background-color: rgb(213, 217, 219);
+            }
+
+            .middle5 img{
+                padding: 50px;
+            }
+
+            .middle5 h2{
+                color: rgb(201, 17, 192);
+            }
+
+            .reviews{
+                text-align: center;
+                                
+               
+            }
+
+            .column2{
+                display: inline-block;
+                width: 25%;
+                height: 350px;
+                text-align: center;
+                border: 1px solid wheat;
+                border-radius: 40px;
+                padding: 15px;
+                padding-top: 20px;
+                padding-bottom: 20px;
+                column-gap: 20%;                
+            }
+
+            .column2 img{
+                overflow: auto;
+                border: 1px;
+                border-radius: 50%;
+            }
+
+            .formtop{
+                background-color: rgb(204, 18, 182);
+                width: 100%;
+                height: 100px;
+                margin-top: 50px;
+            }
+
+            .signuptoday{
+                color:rgb(204, 18, 182);
+                border: none;
+                padding: 10px 20px;
+                border-radius: 20px;
+                box-shadow: whitesmoke;
+                float: right;
+                margin-top: 40px;
+            }
+
+            .form{
+                padding: 50px;
+                float: right;
+                padding-right: 100px;
+                               
+            }
+
+            .forminput{
+                background-color: rgb(77, 75, 75);
+            }
+
+            .formcontent{
+                float: left;
+            }
+
+            .container2 {
+                position: relative;
+                text-align: center;
+                color: white;
+            }
+
+            .centered2 {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-10%, -150%);
+            }
+
+            .input{
+                border-radius: 20px;
+                border: none;
+                width: 300px;
+                height: 30px;
+            }
+
+            .signupform{
+               position: relative;
+               background-color: rgb(53, 46, 46);
+               padding: 0px;
+               margin: 0px;
+          
+           }
+           .centeredform{
+               position:absolute;
+               top: 50%;
+               left: 45%;
+               transform: translate(-50%, -50%);
+               border: none;
+               padding: 10px 20px;
+           }
+           .signupintro{
+               width: 50%;
+               float: left;
+               padding: 5px 3px;
+               color: white;
+               font-weight: lighter;
+           }
+           
+           .formsection{
+                width: 20%;
+                float: right;
+                color: white;
+                margin-top: 80px;
+           }
+           .formsection input{
+               background-color: rgb(221, 210, 210);
+               border: none;
+               border-radius: 5px;
+               width: 250px;
+               padding: 5px 8px;
+               margin-bottom: 20px;
+           }
+           .formsection b{
+               color: rgb(158, 10, 84);
+           }
+
+                               
+            .footer{
+               padding-top: 50px;
+               width: 100%;
+               height: 100px;
+               padding-left: 50px;
+               
+               
+                
+            }
+
+            .social{
+                padding-top:25px;
+                width: 25%;
+                float: left;
+                padding-right: 20px;
+            }
+
+            .footerm{
+                width: 25%;
+                float: left;
+                padding-left: 70px;
+                text-align: center;
+            }
+
+            .footerl{
+                padding-top:25px;
+                width: 30%;
+                float: right;
+                padding-right: 40px;
+                
+            }
+
+    .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 10px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+
+  .slideimg {
+    width: 100%;
+    position: relative;
+    margin: auto;
+  }
+
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prev {
+    left: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+
+
+    .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+
+  @-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+
+  @media only screen and (max-width: 600px){
+    .col4{
+      display: grid;
+      grid-template-columns: auto;
+      margin: 0%;
+      }
+   }
+
+   @media only screen and (max-width: 600px){
+    .col4 .productitem{
+      text-align: center;
+      }
+   }
+  
+   @media only screen and (max-width: 768px){
+    .gridcontent{
+      display: grid;
+      grid-template-columns: auto;
+      margin: 0%;
+      }
+   }
